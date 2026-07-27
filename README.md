@@ -1,2 +1,4 @@
-# Analog_circuit_simulations
-A collection of analog electronic circuit simulations designed in Proteus, featuring 555 Timer circuits, LM566 VCO applications, waveform analysis, design calculations, and project documentation.
+# Analog_circuit_simulation
+A collection of analog electronic circuit simulations created using Proteus Professional.
+
+This repository serves as an engineering portfolio showcasing the design, analysis, and simulation of widely used analog circuits. Each project includes design calculations, schematics, simulation outputs, and technical documentation.
